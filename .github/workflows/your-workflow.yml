@@ -14,4 +14,3 @@ jobs:
 
       - name: Print Email
         run: echo "User email: 22f3000356@ds.study.iitm.ac.in"
-
